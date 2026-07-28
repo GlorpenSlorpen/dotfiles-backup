@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-35b3b9ee-db8e-4406-97e2-f343688f40e0]
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:teams-for-linux.desktop,preferred://browser,applications:proton.vpn.app.gtk.desktop,applications:spotiflac.desktop,applications:spotify-launcher.desktop,applications:discord.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:teams-for-linux.desktop,preferred://browser,applications:proton.vpn.app.gtk.desktop,applications:spotiflac.desktop,applications:spotify-launcher.desktop,applications:discord.desktop

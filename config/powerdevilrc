@@ -1,0 +1,6 @@
+[Activities][35b3b9ee-db8e-4406-97e2-f343688f40e0]
+InhibitScreenManagement=false
+InhibitSuspend=false
+
+[Battery][Display]
+UseProfileSpecificDisplayBrightness=true

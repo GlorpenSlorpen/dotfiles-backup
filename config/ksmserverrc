@@ -1,0 +1,25 @@
+[General]
+loginMode=restoreSavedSession
+
+[LegacySession: saved at previous logout]
+count=0
+
+[LegacySession: saved by user]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10e286938d000177404916200000013150002
+clientId2=10e286938d000177404923500000013150004
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_10e286938d000177404923500000013150004_1774050492_36536
+program1=/usr/bin/firewall-applet
+program2=/usr/bin/konsole
+restartCommand1=/usr/bin/firewall-applet,-session,10e286938d000177404916200000013150002_1774050492_36550,-name,firewall-applet
+restartCommand2=/usr/bin/konsole,-session,10e286938d000177404923500000013150004_1774050492_36536
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=glorpen
+userId2=glorpen
+
+[Session: saved by user]
+count=0

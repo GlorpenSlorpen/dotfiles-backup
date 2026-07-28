@@ -1,0 +1,12 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/wallpapers/wallpaper.png
+Name1[$e]=wallpaper.png
+
+[SideBar]
+InformationSplitterSizes=0,0

@@ -1,0 +1,39 @@
+2026/05/05-10:53:25.844 b1f Reusing MANIFEST /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2026/05/05-10:53:25.844 b1f Recovering log #336
+2026/05/05-10:53:25.846 b1f Reusing old log /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/000336.log 
+2026/05/05-10:54:25.851 b13 Level-0 table #340: started
+2026/05/05-10:54:25.858 b13 Level-0 table #340: 58416 bytes OK
+2026/05/05-10:54:25.864 b13 Delete type=0 #336
+2026/05/05-10:56:07.391 b13 Level-0 table #342: started
+2026/05/05-10:56:07.398 b13 Level-0 table #342: 71544 bytes OK
+2026/05/05-10:56:07.404 b13 Delete type=0 #339
+2026/05/05-10:56:07.404 b13 Compacting 4@0 + 1@1 files
+2026/05/05-10:56:07.413 b13 Generated table #343@0: 218 keys, 241962 bytes
+2026/05/05-10:56:07.414 b13 Compacted 4@0 + 1@1 files => 241962 bytes
+2026/05/05-10:56:07.421 b13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/05-10:56:07.422 b13 Delete type=2 #340
+2026/05/05-10:56:07.422 b13 Delete type=2 #332
+2026/05/05-10:56:07.422 b13 Delete type=2 #342
+2026/05/05-10:56:07.422 b13 Delete type=2 #337
+2026/05/05-10:56:07.422 b13 Delete type=2 #334
+2026/05/05-10:56:45.608 b13 Level-0 table #345: started
+2026/05/05-10:56:45.615 b13 Level-0 table #345: 58996 bytes OK
+2026/05/05-10:56:45.621 b13 Delete type=0 #341
+2026/05/05-10:57:26.841 b13 Level-0 table #347: started
+2026/05/05-10:57:26.851 b13 Level-0 table #347: 66254 bytes OK
+2026/05/05-10:57:26.859 b13 Delete type=0 #344
+2026/05/05-10:57:39.355 b13 Level-0 table #349: started
+2026/05/05-10:57:39.367 b13 Level-0 table #349: 161970 bytes OK
+2026/05/05-10:57:39.378 b13 Delete type=0 #346
+2026/05/05-11:02:14.344 b13 Level-0 table #351: started
+2026/05/05-11:02:14.351 b13 Level-0 table #351: 59787 bytes OK
+2026/05/05-11:02:14.359 b13 Delete type=0 #348
+2026/05/05-11:02:14.359 b13 Compacting 4@0 + 1@1 files
+2026/05/05-11:02:14.374 b13 Generated table #352@0: 270 keys, 440574 bytes
+2026/05/05-11:02:14.375 b13 Compacted 4@0 + 1@1 files => 440574 bytes
+2026/05/05-11:02:14.381 b13 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/05-11:02:14.382 b13 Delete type=2 #347
+2026/05/05-11:02:14.382 b13 Delete type=2 #343
+2026/05/05-11:02:14.383 b13 Delete type=2 #349
+2026/05/05-11:02:14.383 b13 Delete type=2 #345
+2026/05/05-11:02:14.383 b13 Delete type=2 #351

@@ -1,0 +1,12 @@
+2026/05/15-20:10:43.193 152b Reusing MANIFEST /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/MANIFEST-000001
+2026/05/15-20:10:43.194 152b Recovering log #350
+2026/05/15-20:10:43.194 152b Reusing old log /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Local Storage/leveldb/000350.log 
+2026/05/15-20:11:43.196 152b Level-0 table #355: started
+2026/05/15-20:11:43.201 152b Level-0 table #355: 170254 bytes OK
+2026/05/15-20:11:43.207 152b Delete type=0 #350
+2026/05/15-20:12:57.224 152b Level-0 table #357: started
+2026/05/15-20:12:57.230 152b Level-0 table #357: 48237 bytes OK
+2026/05/15-20:12:57.237 152b Delete type=0 #354
+2026/05/15-20:23:21.476 152a Level-0 table #359: started
+2026/05/15-20:23:21.483 152a Level-0 table #359: 105928 bytes OK
+2026/05/15-20:23:21.490 152a Delete type=0 #356

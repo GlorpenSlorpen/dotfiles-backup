@@ -1,0 +1,7 @@
+2026/04/24-09:12:38.506 1560 Reusing MANIFEST /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/04/24-09:12:38.506 1560 Recovering log #3
+2026/04/24-09:12:38.509 1560 Reusing old log /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/4/IndexedDB/indexeddb.leveldb/000003.log 
+2026/04/24-12:32:10.356 1561 Level-0 table #5: started
+2026/04/24-12:32:10.376 1561 Level-0 table #5: 132757 bytes OK
+2026/04/24-12:32:10.385 1561 Delete type=0 #3
+2026/04/24-12:32:10.386 1561 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

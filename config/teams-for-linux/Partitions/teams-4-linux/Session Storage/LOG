@@ -1,0 +1,15 @@
+2026/05/15-20:10:44.062 1382 Reusing MANIFEST /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/MANIFEST-000001
+2026/05/15-20:10:44.062 1382 Recovering log #62
+2026/05/15-20:10:44.063 1382 Reusing old log /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/Session Storage/000062.log 
+2026/05/15-20:12:57.224 152e Level-0 table #66: started
+2026/05/15-20:12:57.230 152e Level-0 table #66: 23978 bytes OK
+2026/05/15-20:12:57.236 152e Delete type=0 #62
+2026/05/15-20:12:57.236 152e Compacting 4@0 + 1@1 files
+2026/05/15-20:12:57.245 152e Generated table #67@0: 418 keys, 393366 bytes
+2026/05/15-20:12:57.245 152e Compacted 4@0 + 1@1 files => 393366 bytes
+2026/05/15-20:12:57.250 152e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/15-20:12:57.251 152e Delete type=2 #56
+2026/05/15-20:12:57.251 152e Delete type=2 #58
+2026/05/15-20:12:57.251 152e Delete type=2 #63
+2026/05/15-20:12:57.251 152e Delete type=2 #66
+2026/05/15-20:12:57.251 152e Delete type=2 #61

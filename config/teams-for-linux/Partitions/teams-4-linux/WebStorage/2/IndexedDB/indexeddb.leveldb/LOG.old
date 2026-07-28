@@ -1,0 +1,36 @@
+2026/05/05-10:17:40.868 693 Reusing MANIFEST /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/05/05-10:17:40.869 693 Recovering log #64
+2026/05/05-10:17:40.895 693 Reusing old log /home/glorpen/.config/teams-for-linux/Partitions/teams-4-linux/WebStorage/2/IndexedDB/indexeddb.leveldb/000064.log 
+2026/05/05-10:17:40.934 693 Level-0 table #70: started
+2026/05/05-10:17:40.954 693 Level-0 table #70: 2925208 bytes OK
+2026/05/05-10:17:40.960 693 Delete type=0 #64
+2026/05/05-10:17:41.082 698 Compacting 1@1 + 2@2 files
+2026/05/05-10:17:41.117 698 Generated table #71@1: 5948 keys, 2169147 bytes
+2026/05/05-10:17:41.127 698 Generated table #72@1: 232 keys, 450001 bytes
+2026/05/05-10:17:41.127 698 Compacted 1@1 + 2@2 files => 2619148 bytes
+2026/05/05-10:17:41.135 698 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/05-10:17:41.135 698 Delete type=2 #70
+2026/05/05-10:17:41.135 698 Delete type=2 #67
+2026/05/05-10:17:41.135 698 Delete type=2 #66
+2026/05/05-10:17:41.373 697 Level-0 table #74: started
+2026/05/05-10:17:41.396 697 Level-0 table #74: 1906428 bytes OK
+2026/05/05-10:17:41.404 697 Delete type=0 #69
+2026/05/05-10:17:44.746 697 Compacting 1@1 + 1@2 files
+2026/05/05-10:17:44.781 697 Generated table #75@1: 6614 keys, 2176371 bytes
+2026/05/05-10:17:44.795 697 Generated table #76@1: 2053 keys, 955209 bytes
+2026/05/05-10:17:44.795 697 Compacted 1@1 + 1@2 files => 3131580 bytes
+2026/05/05-10:17:44.800 697 compacted to: files[ 0 0 3 0 0 0 0 ]
+2026/05/05-10:17:44.800 697 Delete type=2 #71
+2026/05/05-10:17:44.800 697 Delete type=2 #74
+2026/05/05-10:18:14.180 697 Level-0 table #78: started
+2026/05/05-10:18:14.200 697 Level-0 table #78: 2921100 bytes OK
+2026/05/05-10:18:14.207 697 Delete type=0 #73
+2026/05/05-10:18:14.304 697 Compacting 1@1 + 3@2 files
+2026/05/05-10:18:14.338 697 Generated table #79@1: 5736 keys, 2181154 bytes
+2026/05/05-10:18:14.357 697 Generated table #80@1: 848 keys, 1296075 bytes
+2026/05/05-10:18:14.357 697 Compacted 1@1 + 3@2 files => 3477229 bytes
+2026/05/05-10:18:14.371 697 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/05/05-10:18:14.372 697 Delete type=2 #78
+2026/05/05-10:18:14.372 697 Delete type=2 #75
+2026/05/05-10:18:14.372 697 Delete type=2 #72
+2026/05/05-10:18:14.372 697 Delete type=2 #76
