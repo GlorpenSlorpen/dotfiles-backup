@@ -3,29 +3,35 @@
 ## Fresh EndeavourOS Install Setup
 
 1. Install git:
+2. 
    sudo pacman -S --needed git
 
-2. Clone this repo:
+3. Clone this repo:
+4. 
    git clone https://github.com/GlorpenSlorpen/dotfiles-backup.git ~/dotfiles-backup
 
-3. Reinstall official packages:
+5. Reinstall official packages:
+6. 
    sudo pacman -S --needed - < ~/dotfiles-backup/pkglist-official.txt
 
-4. Install yay (for AUR packages):
+7. Install yay (for AUR packages):
+8. 
    sudo pacman -S --needed git base-devel
    git clone https://aur.archlinux.org/yay.git
    cd yay
    makepkg -si
    cd ..
 
-5. Reinstall AUR packages:
+9. Reinstall AUR packages:
+10. 
    yay -S --needed - < ~/dotfiles-backup/pkglist-aur.txt
 
-6. Restore dotfiles:
+11. Restore dotfiles:
+12. 
    cp ~/dotfiles-backup/.bashrc ~/dotfiles-backup/.zshrc ~/dotfiles-backup/.gitconfig ~/dotfiles-backup/.vimrc ~/ 2>/dev/null
    cp -r ~/dotfiles-backup/config/* ~/.config/
 
-7. Reboot:
+13. Reboot:
    reboot
 
 ## Notes
